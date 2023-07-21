@@ -1,7 +1,6 @@
 <h1>Docker container for ergprog2 </h1>
 <h2>Clone:</h2>
-<code>
-  git clone https://github.com/chaosman97/docker4ergprog2
+<code>  git clone https://github.com/chaosman97/docker4ergprog2
   cd docker4ergprog2
 </code>
 <h2>Build:</h2>
